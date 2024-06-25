@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil👋
+
+* Meu nome é **Bruna Vecchio**
+
+* Sou aluna de tecnologia e inovação.
+* Estou participaando de um curso com base na linguagem javascript na biblioteca p5js.
+* Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula.
+
+## Meu contato :💌
+
+*00001089879982sp@al.educacao.sp.gov.br
 
 <!--
 **brunavecchio/brunavecchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
